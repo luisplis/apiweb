@@ -1,5 +1,10 @@
 {
-  "type": "Polygon", 
-  "properties": { "NOMBRE": "Guadarrama", "PROVMUN": "28068" },
-  "arcs": [16345, 16346, 16347, 16348, 16349, -15922, -16232]
+  "type":"Topology",
+  "objects": {
+    "counties": {
+      "type": "Polygon", 
+      "properties": { "NOMBRE": "Guadarrama", "PROVMUN": "28068" },
+      "arcs": [16345, 16346, 16347, 16348, 16349, -15922, -16232]
+    }
+  }
 }
